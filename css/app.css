@@ -13,3 +13,26 @@ header{
     width: 200px;
 }
 
+main{
+    width: 80%;
+    margin: auto;
+}
+
+main h1{
+    margin-bottom: 0;
+}
+
+.author-credit{
+    margin-top: 0;
+    color: gray;
+}
+
+.author-credit a{
+    color: blue;
+    text-decoration: none;
+}
+
+figure{
+    margin: 0;
+}
+
