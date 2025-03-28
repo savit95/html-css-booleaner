@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 header{
     background-image: url('../img/pattern.png');
     background-color:#9cd6f4;
@@ -28,11 +32,56 @@ main h1{
 }
 
 .author-credit a{
-    color: blue;
+    color: #4eb5ff;
     text-decoration: none;
 }
 
 figure{
     margin: 0;
 }
+
+.highlighted{
+    background-color: yellow;
+}
+
+ul{
+    padding: 10px;
+    margin-left: 5px;
+}
+
+th{
+    background-color: #7fa6fb;
+}
+
+table{
+    text-align: left;
+    width: 100%;
+}
+
+thead{
+    color: white;
+}
+
+.col-1{
+    width: 25%;
+}
+
+.col-2{
+    width:25% ;
+} 
+
+.col-3{
+    width: 60%;
+} 
+
+.row-1{
+    background-color: #dfe5f2;
+}
+
+.row-3{
+    background-color: #dfe5f2;
+} 
+
+
+
 
