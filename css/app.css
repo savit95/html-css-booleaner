@@ -5,7 +5,7 @@ body{
 header{
     background-image: url('../img/pattern.png');
     background-color:#9cd6f4;
-    padding: 50px;
+    height: 150px;
 }
 
 .containerLogo{
@@ -15,6 +15,7 @@ header{
 
 #logo{
     width: 200px;
+    margin-top: 50px;
 }
 
 main{
@@ -81,6 +82,15 @@ thead{
 .row-3{
     background-color: #dfe5f2;
 } 
+
+footer{
+    
+    background-color:#313a6b ;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin-top: auto;
+}
 
 
 
